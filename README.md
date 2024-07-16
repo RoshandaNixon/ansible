@@ -1,4 +1,4 @@
 # ansible_introduction
 
 
-This is my into to Ansible repo.
+This is my intro to Ansible repo.
