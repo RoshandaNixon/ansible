@@ -1,5 +1,6 @@
 [web_servers]
 roshanda@192.168.1.211
+roshanda@192.168.1.202
 
 [file_servers]
 192.168.1.205
